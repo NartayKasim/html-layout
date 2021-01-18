@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.gray, .blue, .teal, .green, .yellow {
+    height:10vh;
+}
+
+.gray {
+    padding:25px;
+}
+.blue-square {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+
+.white {
+    height: 20vh;
+}
+
+p {
+    padding:5vh;
+}
+
+.gray {
+    background-color:gray;
+}
+
+.blue {
+    background-color:blue;
+}
+
+.teal {
+    background-color:teal;
+}
+
+.green {
+    background-color:green;
+}
+
+.yellow {
+    background-color:yellow;
+}
